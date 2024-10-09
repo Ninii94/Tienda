@@ -1,0 +1,51 @@
+
+.success-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f8e1f4; /* Un fondo rosa claro */
+  }
+  
+  .success-content {
+    background-color: white;
+    border-radius: 20px;
+    padding: 40px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    width: 90%;
+  }
+  
+  .success-title {
+    color: #e275cb;
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .success-icon {
+    font-size: 64px;
+    margin-bottom: 20px;
+  }
+  
+  .success-message {
+    color: #666;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+  }
+  
+  .continue-shopping-btn {
+    background-color: #e275cb;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .continue-shopping-btn:hover {
+    background: linear-gradient(to bottom right, #f08395, #87cefa);
+  }

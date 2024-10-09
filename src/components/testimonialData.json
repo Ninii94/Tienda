@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Margot Robbie",
+      "testimonial": "envio rapido y seguro",
+      "profileImage": "margot.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ryan Gosling",
+      "testimonial": "Precio y atencion excelentes",
+      "profileImage": "ryan.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dua Lipa",
+      "testimonial": "Excelente precio",
+      "profileImage": "dua.jpg"
+    }
+  ]
